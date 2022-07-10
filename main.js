@@ -139,7 +139,7 @@ const searchString = "Chat app description";
     await browser.close();
     console.log(`
     ===============================================================
-    |      Task Completed. Open the "files" folder/directory :)     |
+    |     Task Completed. Open the "files" folder/directory :)    |
     ===============================================================
     `);
   } catch (err) {
