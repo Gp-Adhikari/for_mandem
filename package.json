@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon main.js"
   },
-
   "dependencies": {
+    "pptxgenjs": "^3.10.0",
     "puppeteer": "^15.3.2"
   }
 }
